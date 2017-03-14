@@ -1,5 +1,8 @@
 _repo: Zadig-ou-la-Destinee-histoire-orientale_4647
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Voltaire
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Voltaire
     - http://fr.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4647#Zadig-ou-la-Destinee-histoire-orientale
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
