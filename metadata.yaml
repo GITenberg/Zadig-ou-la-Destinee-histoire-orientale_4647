@@ -1,5 +1,5 @@
 _repo: Zadig-ou-la-Destinee-histoire-orientale_4647
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 title: "Zadig,\r\nou la Destinée, histoire orientale"
 url: http://www.gutenberg.org/ebooks/4647
